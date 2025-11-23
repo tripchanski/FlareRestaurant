@@ -1,5 +1,3 @@
-I am the GitHub Copilot Chat Assistant. Below is a ready-to-use README.md you can add to tripchanski/FlareRestaurant. Tell me if you want me to commit it to the repo.
-
 ---
 # FlareRestaurant
 
